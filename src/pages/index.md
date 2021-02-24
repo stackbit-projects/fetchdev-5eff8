@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: We are by Innovation
     subtitle: 'Exactly, Creative Matters with Coding'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      We were prodominently focusing on building things great..
     actions:
       - label: Try Free
         url: /pricing
