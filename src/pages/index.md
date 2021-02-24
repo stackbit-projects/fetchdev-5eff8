@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We are by Innovation
-    subtitle: Optional hero section subtitle
+    subtitle: 'Exactly, Creative Matters with Coding'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
