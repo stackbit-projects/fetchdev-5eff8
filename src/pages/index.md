@@ -7,7 +7,7 @@ sections:
     content: |
       We were prodominently focusing on building things great..
     actions:
-      - label: Try Free
+      - label: Get Started
         url: /pricing
         style: primary
       - label: Learn More
