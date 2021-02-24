@@ -327,7 +327,9 @@ sections:
     background_color: secondary
 seo:
   title: Fetchdev
-  description: The preview of the DIY theme
+  description: >-
+    Fetchdev, A proudly Programmers, Web Developers community Source to make
+    everyone to learn about cutting-edge technologies..
   extra:
     - name: 'og:type'
       value: website
