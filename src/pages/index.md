@@ -326,7 +326,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Fetchdev
+  title: 'Fetchdev: Web Developers Community Resource '
   description: >-
     Fetchdev, A proudly Programmers, Web Developers community Source to make
     everyone to learn about cutting-edge technologies..
